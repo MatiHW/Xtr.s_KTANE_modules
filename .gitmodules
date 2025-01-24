@@ -1,0 +1,9 @@
+[submodule "SolvableModules/Keywords"]
+	path = SolvableModules/Keywords
+	url = git@github.com:XtrKTANEmodules/Keywords.git
+[submodule "SolvableModules/Passcodes"]
+	path = SolvableModules/Passcodes
+	url = git@github.com:XtrKTANEmodules/Passcodes.git
+[submodule "NeedyModules/Reaction"]
+	path = NeedyModules/Reaction
+	url = git@github.com:XtrKTANEmodules/Reaction.git
